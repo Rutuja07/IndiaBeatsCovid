@@ -1,4 +1,4 @@
-I am not able to push the changes as it is disabled for the original project.I will add the images to the changes I have made from which tou can check the added feature.
+I am not able to push the changes as it is disabled for the original project.I will add the images to the changes I have made from which you can check the added feature.
 ![original 1](https://user-images.githubusercontent.com/51352791/131258168-5611e77b-f1c9-4c12-829d-094c0ccbd9ff.png)This project did not have a feature where you can redirect to the groceries or the food delivery app.
 
 
